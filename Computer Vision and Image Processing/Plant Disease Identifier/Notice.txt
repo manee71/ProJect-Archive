@@ -1,0 +1,1 @@
+This a prototype application based on AL and ML for plant disease detection 
