@@ -1,0 +1,4 @@
+A AI and ML based image preocessing model for text extraction
+mostly with matlab and python.
+
+Note: their was some problem while uploading so some information might be inconsistant, sorry for such case.
