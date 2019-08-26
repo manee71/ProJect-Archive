@@ -1,0 +1,2 @@
+This Model is submiited for Fintech Valley Vizag,
+main technology Python and Matlab(Model is yet to complete)
