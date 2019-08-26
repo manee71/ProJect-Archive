@@ -1,0 +1,2 @@
+This case study is on market predictions.
+Model to predict future trade and stock market activities
