@@ -1,0 +1,2 @@
+This case study is on Image Processing.
+It is based on machine learning(ML) and Artificial Intelligence(AI)
