@@ -1,0 +1,3 @@
+Worked on argumented reality(AR) products in eduction 
+Mostly c# with unity developement tool. This mainly focus on games based on AR that 
+can help students to understand, visualize and create thing at whole new level.
